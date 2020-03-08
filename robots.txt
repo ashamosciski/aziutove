@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://suazecemi.tag.photo/sitemap.xml
